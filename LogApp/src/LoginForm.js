@@ -60,7 +60,7 @@ function LoginForm() {
 
                 <button onClick={LoginNow}> Login </button>
 
-                <h1> {loginStatus} </h1>
+                <h1>{usernameLogin}</h1>
 
             </form>
 
